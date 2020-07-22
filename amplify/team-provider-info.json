@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-workoutgeneratorapp-dev-221706-authRole",
+            "UnauthRoleArn": "arn:aws:iam::783717113868:role/amplify-workoutgeneratorapp-dev-221706-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::783717113868:role/amplify-workoutgeneratorapp-dev-221706-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-workoutgeneratorapp-dev-221706-deployment",
+            "UnauthRoleName": "amplify-workoutgeneratorapp-dev-221706-unauthRole",
+            "StackName": "amplify-workoutgeneratorapp-dev-221706",
+            "StackId": "arn:aws:cloudformation:us-east-1:783717113868:stack/amplify-workoutgeneratorapp-dev-221706/ccd84db0-bf2e-11ea-be7c-12878b97cc21",
+            "AmplifyAppId": "d90zt7beomk1l"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d90zt7beomk1l",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
